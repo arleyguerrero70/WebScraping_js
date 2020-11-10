@@ -1,0 +1,16 @@
+{
+    "name" : "youtube",
+    "version" : "1.0.0",
+    "description" : "",
+    "main" : "script.js",
+    "dependencies" : {
+        "puppeteer" : ""
+    },
+    "devDependencies":{},
+    "scripts":{
+        "test": "echo \"Error: No test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author":"",
+    "license": "ISC"
+}
